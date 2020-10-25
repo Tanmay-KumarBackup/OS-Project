@@ -1,0 +1,3 @@
+/home/tanmay/CLionProjects/Operating System project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tanmay/CLionProjects/Operating System project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tanmay/CLionProjects/Operating System project/cmake-build-debug/CMakeFiles/Operating_System_project.dir
