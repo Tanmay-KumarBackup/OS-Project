@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/tanmay/CLionProjects/Operating System project/Hybrid LRU.cpp">
+		<Unit filename="/home/tanmay/CLionProjects/Operating System project/Hybrid LRU with Database.cpp">
 			<Option target="Operating_System_project"/>
 		</Unit>
 		<Unit filename="/home/tanmay/CLionProjects/Operating System project/CMakeLists.txt">

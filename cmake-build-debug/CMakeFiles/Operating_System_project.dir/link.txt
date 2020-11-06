@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Operating_System_project.dir/Hybrid_LRU.cpp.o  -o Operating_System_project 
+/usr/bin/c++  -g   CMakeFiles/Operating_System_project.dir/Hybrid_LRU_with_Database.cpp.o  -o Operating_System_project 

@@ -143,32 +143,32 @@ Operating_System_project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operating_System_project.dir/build.make CMakeFiles/Operating_System_project.dir/build
 .PHONY : Operating_System_project/fast
 
-Hybrid_LRU.o: Hybrid_LRU.cpp.o
+Hybrid_LRU_with_Database.o: Hybrid_LRU_with_Database.cpp.o
 
-.PHONY : Hybrid_LRU.o
+.PHONY : Hybrid_LRU_with_Database.o
 
 # target to build an object file
-Hybrid_LRU.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operating_System_project.dir/build.make CMakeFiles/Operating_System_project.dir/Hybrid_LRU.cpp.o
-.PHONY : Hybrid_LRU.cpp.o
+Hybrid_LRU_with_Database.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operating_System_project.dir/build.make CMakeFiles/Operating_System_project.dir/Hybrid_LRU_with_Database.cpp.o
+.PHONY : Hybrid_LRU_with_Database.cpp.o
 
-Hybrid_LRU.i: Hybrid_LRU.cpp.i
+Hybrid_LRU_with_Database.i: Hybrid_LRU_with_Database.cpp.i
 
-.PHONY : Hybrid_LRU.i
+.PHONY : Hybrid_LRU_with_Database.i
 
 # target to preprocess a source file
-Hybrid_LRU.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operating_System_project.dir/build.make CMakeFiles/Operating_System_project.dir/Hybrid_LRU.cpp.i
-.PHONY : Hybrid_LRU.cpp.i
+Hybrid_LRU_with_Database.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operating_System_project.dir/build.make CMakeFiles/Operating_System_project.dir/Hybrid_LRU_with_Database.cpp.i
+.PHONY : Hybrid_LRU_with_Database.cpp.i
 
-Hybrid_LRU.s: Hybrid_LRU.cpp.s
+Hybrid_LRU_with_Database.s: Hybrid_LRU_with_Database.cpp.s
 
-.PHONY : Hybrid_LRU.s
+.PHONY : Hybrid_LRU_with_Database.s
 
 # target to generate assembly for a file
-Hybrid_LRU.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operating_System_project.dir/build.make CMakeFiles/Operating_System_project.dir/Hybrid_LRU.cpp.s
-.PHONY : Hybrid_LRU.cpp.s
+Hybrid_LRU_with_Database.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operating_System_project.dir/build.make CMakeFiles/Operating_System_project.dir/Hybrid_LRU_with_Database.cpp.s
+.PHONY : Hybrid_LRU_with_Database.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Operating_System_project"
-	@echo "... Hybrid_LRU.o"
-	@echo "... Hybrid_LRU.i"
-	@echo "... Hybrid_LRU.s"
+	@echo "... Hybrid_LRU_with_Database.o"
+	@echo "... Hybrid_LRU_with_Database.i"
+	@echo "... Hybrid_LRU_with_Database.s"
 .PHONY : help
 
 

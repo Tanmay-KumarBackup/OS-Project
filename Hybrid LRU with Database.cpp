@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <iostream>
-//#include <mysql_connection.h>
+
 struct Page{
     int pgNo;
     int TNR_num;

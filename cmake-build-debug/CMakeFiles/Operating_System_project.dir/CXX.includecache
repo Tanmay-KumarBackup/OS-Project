@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/tanmay/CLionProjects/Operating System project/Hybrid LRU.cpp
+/home/tanmay/CLionProjects/Operating System project/Hybrid LRU with Database.cpp
 cstdio
+-
+iostream
+-
+mysql.h
 -
 
